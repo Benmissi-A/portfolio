@@ -35,5 +35,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "my first portfolio made with react",
+  "main": "index.js",
+  "repository": "https://github.com/Benmissi-A/portfolio.git",
+  "author": "Benmissi-A <aminebenmissi@hotmail.fr>",
+  "license": "MIT"
 }
